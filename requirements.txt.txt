@@ -1,0 +1,11 @@
+streamlit
+google-api-python-client
+youtube-transcript-api
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+huggingface-hub
+chromadb
+sentence-transformers
+tqdm
